@@ -1,0 +1,33 @@
+{
+  "name": "react-native-usb-printer",
+  "version": "0.0.4",
+  "description": "a usb thermal printer library for android ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wanxsb/react-native-usb-printer.git"
+  },
+  "keywords": [
+    "react-native",
+    "printer",
+    "rn",
+    "usb",
+    "android"
+  ],
+  "author": "wanxsb@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanxsb/react-native-usb-printer/issues"
+  },
+  "homepage": "https://github.com/wanxsb/react-native-usb-printer#readme",
+  "dependencies": {
+    "buffer": "^5.0.7",
+    "escpos-printer-toolkit": "^1.0.8"
+  },
+  "devDependencies": {
+    
+  }
+}
